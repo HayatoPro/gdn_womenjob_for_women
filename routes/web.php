@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('job', function () {
-    return view('gdn.check'); //提出用
-    // return view('gdn.job'); //獲得用(1)
+    // return view('gdn.check'); //提出用
+    return view('gdn.job'); //獲得用(1)
 });
 
 // LP確認用
