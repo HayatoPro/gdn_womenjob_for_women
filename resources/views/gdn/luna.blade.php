@@ -13,7 +13,7 @@
         <div class="center-button">
             <a href="https://a-trade.jp/redirect/sumaluna?media=G16531" target="_blank" class="btn-square-shadow"> 無料で相談する <i class="fas fa-arrow-circle-right"></i></a>
             <br>
-            <p>※的確な<span class="red">専門家のアドバイス</span>！</p>
+            <p>※的確な<span class="red">専門家によるアドバイス</span>！</p>
         </div>
         <div class="center">
             <div class="box19">
@@ -26,6 +26,5 @@
         <div class="center">
             <p>悩みを解消して素敵な1日に..!</p>
         </div>
-        <br>
     </body>
 </html>
