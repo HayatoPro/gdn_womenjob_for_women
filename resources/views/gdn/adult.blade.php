@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>女子●生が暴露！？今話題のアプリとは…</title>
-        <link href="{{ secure_asset('css/check.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/adult.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
