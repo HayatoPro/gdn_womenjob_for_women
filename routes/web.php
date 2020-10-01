@@ -12,9 +12,10 @@
 */
 // LP獲得用
 Route::get('app', function () {
-    return view('gdn.luna'); //獲得用(2)
+    return view('gdn.check'); //提出用
+    // return view('gdn.adult'); //獲得用(5)
     
-    // return view('gdn.check'); //提出用
+    // return view('gdn.luna'); //獲得用(2)
     // return view('gdn.job'); //獲得用(1)
 });
 
