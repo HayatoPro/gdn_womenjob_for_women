@@ -18,7 +18,7 @@
         <img src="{{ asset('image/IMG_4776.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4777.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4778.jpg') }}" class="protect"></img>
-        <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/IMG_4779.jpg') }}"></img></a>
+        <a href="https://a-trade.jp/redirect/match?media=G16531" target="_blank"><img src="{{ asset('image/IMG_4779.jpg') }}"></img></a>
         <img src="{{ asset('image/IMG_4780.JPG') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4781.JPG') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4782.JPG') }}" class="protect"></img>
@@ -27,14 +27,14 @@
         <img src="{{ asset('image/IMG_4785.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4786.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4787.jpg') }}" class="protect"></img>
-        <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/IMG_4788.jpg') }}"></img></a>
+        <a href="https://a-trade.jp/redirect/match?media=G16531" target="_blank"><img src="{{ asset('image/IMG_4788.jpg') }}"></img></a>
         <img src="{{ asset('image/IMG_4789.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4790.JPG') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4791.JPG') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4792.JPG') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4793.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4794.jpg') }}" class="protect"></img>
-        <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/kokoko-2.jpg') }}"></img></a>
+        <a href="https://a-trade.jp/redirect/match?media=G16531" target="_blank"><img src="{{ asset('image/kokoko-2.jpg') }}"></img></a>
         <img src="{{ asset('image/IMG_4796.jpg') }}" class="protect"></img>
         <img src="{{ asset('image/IMG_4797.jpg') }}" class="protect"></img>
     </body>
