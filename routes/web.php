@@ -13,7 +13,7 @@
 // LP獲得用
 Route::get('app', function () {
     return view('gdn.check'); //提出用
-    // return redirect('https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON') //トークウィズ - Preaf
+    // return redirect('https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON'); //トークウィズ - Preaf
     
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.luna'); //獲得用(2)
