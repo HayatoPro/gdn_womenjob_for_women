@@ -22,7 +22,7 @@ Route::get('app', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return redirect('https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON') //トークウィズ - Preaf
+    return redirect('https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON'); //トークウィズ - Preaf
     
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.omi2'); //獲得用(4)
