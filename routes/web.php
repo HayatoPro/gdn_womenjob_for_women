@@ -13,7 +13,7 @@
 // LP獲得用
 Route::get('app', function () {
     return view('gdn.check'); //提出用
-    // return redirect('https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON'); //モモチャ - Preaf
+    // return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
     
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.luna'); //獲得用(2)
@@ -22,7 +22,7 @@ Route::get('app', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return redirect('https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON'); //モモチャ - Preaf
+    return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
     
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.omi2'); //獲得用(4)
