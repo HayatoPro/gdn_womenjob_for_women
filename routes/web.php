@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app', function () {
-    // return view('gdn.check'); //提出用
-    return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
+    return view('gdn.check'); //提出用
+    // return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
     
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.luna'); //獲得用(2)
