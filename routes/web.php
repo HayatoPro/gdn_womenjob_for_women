@@ -23,8 +23,8 @@ Route::get('app', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワク直遷移 - fam
-    
+    return view('gdn.papa'); //ワクワク - パパ活訴求
+    // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワク直遷移 - fam
     // return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
     // return view('gdn.adult'); //獲得用(5)
     // return view('gdn.omi2'); //獲得用(4)
