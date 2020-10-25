@@ -21,6 +21,9 @@ Route::get('app', function () {
     // return view('gdn.job'); //獲得用(1)
 });
 
+//OS識別→案件遷移
+Route::get('os', 'AdController@os');
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('gdn.papa'); //ワクワク - パパ活訴求

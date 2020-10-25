@@ -83,7 +83,7 @@
             </div>
             
             <div class="contents6-button">
-                <a href="#" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./os" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
             </div>
             
             <div class="contents6-text">
@@ -108,7 +108,7 @@
             </div>
             
             <div class="contents6-button2">
-                <a href="#" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./os" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
             </div>
             
             <div class="contents7">
