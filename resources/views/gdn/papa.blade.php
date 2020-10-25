@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>LP作成中</title>
+        <title>【2020年秋】最新パパ活情報！PalDy</title>
         <link href="{{ secure_asset('css/papa.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
@@ -130,27 +130,20 @@
             <div class="contents8-text">
                 <p>公式LINEにて同じパパ活女子達が持つ悩みに関するアドバイス、各アプリにおける現在の相場情報、都市部・地方のパパ活事情、優良パパ・悪質パパ情報の共有、不定期プレゼント企画などを実施しています。<br>少しでも気になった方は公式LINEをCHECK！</p>
                 <div class="contents8-img">
-                    <img src="{{ asset('image/pp_wkwk_10.jpg') }}"></img>
+                    <a href="https://lin.ee/nvxfLzP" target="_blank"><img src="{{ asset('image/pp_wkwk_10.jpg') }}"></img></a>
                 </div>
             </div>
+            <div class="contents8-text2">
+                <p>※プレゼント受け取り希望の方は、友だち追加をお願いします♪</p>
+            </div>
             
+            <div class="editor">
+                <img src="{{ asset('image/cl_lp_5.jpg') }}"></img>
+            </div>
         </div>
         
         <footer>
-            <!--ジャストアイディア-->
-            <!--LINE誘導してLINE@内で友達追加の案件訴求も実施? LP内でも勿論案件訴求するがあくまで控えめに？-->
+            <img src="{{ asset('image/cl_lp_6.jpg') }}"></img>
         </footer>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
     </body>
 </html>

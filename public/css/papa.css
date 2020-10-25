@@ -8,11 +8,11 @@ body {
     border-bottom: solid 2px red;
 }
 
-a {
-    font-weight: bold;
-    color: blue;
-    border-bottom: solid 1px blue;
-}
+/*a {*/
+/*    font-weight: bold;*/
+/*    color: blue;*/
+/*    border-bottom: solid 1px blue;*/
+/*}*/
 
 header, .body {
     padding: 0 0.5em;
@@ -272,5 +272,25 @@ header img {
 
 .contents8-text img {
     margin-top: -1em;
-    width: 90%;
+    width: 100%;
+}
+
+.contents8-text2 {
+    text-align: center;
+    margin-top: -1em;
+}
+
+.contents8-text2 p {
+    font-size: 3vw;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+}
+
+.editor img {
+    width: 100%;
+    margin: 3em 0;
+}
+
+footer img {
+    width: 100%;
 }
