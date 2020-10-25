@@ -60,7 +60,7 @@ header img {
 }
 
 .contents1 img {
-    margin-top: -1.5em;
+    margin-top: -0.5em;
     width: 100%;
 }
 
@@ -77,7 +77,7 @@ header img {
 }
 
 .contents2 img {
-    margin-top: -1.5em;
+    margin-top: -0.5em;
     width: 100%;
 }
 
@@ -184,6 +184,7 @@ header img {
   border-bottom: solid 4px #627295;
   border-radius: 3px;
   font-size: 4.3vw;
+  font-weight: bold;
 }
 
 .contents6-text p {
@@ -206,10 +207,10 @@ header img {
     display: inline-block;
     top: -13px;
     left: 10px;
-    padding: 0 9px;
+    padding: 0 3px;
     line-height: 1;
     /*font-size: 19px;*/
-    font-size: 4.3vw;
+    font-size: 4.8vw;
     background: #FFF;
     color: #FF88FF;
     font-weight: bold;
