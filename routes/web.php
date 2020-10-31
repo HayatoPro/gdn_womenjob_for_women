@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('app', function () {
     return view('gdn.check'); //提出用
-    // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16355'); //ワクワクLP遷移 - fam
+    // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワクストア直遷移 - fam
     
+    // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16355'); //ワクワクLP遷移 - fam
     // return view('gdn.papa'); //ワクワク - パパ活訴求
     // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワク直遷移 - fam
     // return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
@@ -28,8 +29,9 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16355'); //ワクワクLP遷移 - fam
+    return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワクストア直遷移 - fam
     
+    // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16355'); //ワクワクLP遷移 - fam
     // return view('gdn.papa'); //ワクワク - パパ活訴求
     // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワク直遷移 - fam
     // return redirect('https://a-trade.jp/redirect/zoo?media=G16531'); //ZOO - Aトレード
