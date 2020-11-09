@@ -10,7 +10,7 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/tw_app.png') }}"></img>
-        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/%E3%83%90%E3%82%A4%E3%83%88-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AF%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF/id434586962">コチラ</a>をタップして下さい。</p>
+        <img src="{{ asset('image/rezero.png') }}"></img>
+        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/re-ゼロから始める異世界生活-リゼロス/id1505489916">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
