@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app', function () {
+Route::get('info', function () {
     return view('gdn.check'); //提出用
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     
