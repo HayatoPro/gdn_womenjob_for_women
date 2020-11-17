@@ -30,6 +30,9 @@ Route::get('info', function () {
 //OS識別→案件遷移 & LINE@にもウェルカムメッセージ内に設置
 Route::get('os', 'AdController@os');
 
+//ライブでゴーゴー
+Route::get('job', 'AdController@job');
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('gdn.jobNew'); //ライブでゴーゴーLP
