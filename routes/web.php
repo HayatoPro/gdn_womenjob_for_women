@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('info', function () {
-    // return view('gdn.check'); //提出用
-    return view('gdn.jobNew'); //ライブでゴーゴーLP
+    return view('gdn.check'); //提出用
+    // return view('gdn.jobNew'); //ライブでゴーゴーLP
     
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     // return view('gdn.adgame'); //アナヒロ - LP
