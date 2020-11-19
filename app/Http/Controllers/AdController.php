@@ -18,7 +18,7 @@ class AdController extends Controller
     public function job(Request $request) {
         $user_agent =  $request->header('User-Agent');
         if ((strpos($user_agent, 'iPhone') !== false)) {
-            return redirect('https://trading-ad.net/lp/livede55/lady01/?pf=atrade&b=G16531'); //ライブでゴーゴー - Aトレード
+            return redirect('https://a-trade.jp/redirect/charin?media=G16531'); //チャリン - Aトレード
         }
         return redirect('https://trading-ad.net/lp/livede55/lady01/?pf=atrade&b=G16531'); //ライブでゴーゴー - Aトレード
     }

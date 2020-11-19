@@ -9,12 +9,11 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <img src="{{ asset('image/tiny_live.PNG') }}"></img>
-        <br>
         <h1>「在宅ワーク」で最大<span class="red">時給4,200円</span>可能<br>やればやる分だけお小遣いGETのチャンス!</h1>
         <div class="button">
             <a href="./job" target="_blank" class="btn-square-little-rich">公式ページはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <p>※今日からお仕事OK! <span class="red">お祝い金プレゼント中!</span></p>
+        <a href="./job" target="_blank"><img src="https://trading-ad.net/a-trade/banner/charin_600x500_jikyu_ss114_main.png" alt=""></a>
     </body>
 </html>
