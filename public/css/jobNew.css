@@ -1,53 +1,162 @@
+/*全体*/
 body {
-    background-color: white;
+    background-color: black;
     font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
-    text-align: center;
 }
 
 img {
-  width: 100%;
+    width: 80%;
 }
 
-.img1 {
-  margin-top: -1em;
+.wide {
+    width: 100%;
 }
 
-.h4 {
-  border-bottom: 2px solid black;
-}
-
-.btn-square-little-rich {
-  position: relative;
+/*ボタン*/
+.btn-square-shadow {
   display: inline-block;
-  padding: 0.25em 0.5em;
+  padding: 0.5em 1em;
   text-decoration: none;
+  background: red;/*ボタン色*/
   color: #FFF;
-  background: #03A9F4;/*色*/
-  border: solid 1px #0f9ada;/*線色*/
-  border-radius: 4px;
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
-  text-shadow: 0 1px 0 rgba(0,0,0,0.2);
-}
-
-.button a {
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
   font-weight: bold;
-  font-size: 1.5em;
 }
 
-h1 {
-  color: #364e96;/*文字色*/
-  padding: 0.5em 0;/*上下の余白*/
-  border-top: solid 3px #364e96;/*上線*/
-  border-bottom: solid 3px #364e96;/*下線*/
-  font-size: 4.5vw;
+/*ヘッダー*/
+header {
+    background-color: black;
+    text-align: center;
 }
 
-p {
-  font-weight: bold;
-  font-size: 4vw;
+header p {
+    color: white;
+    font-weight: bold;
 }
 
-.red {
-  color: red;
-  border-bottom: 2px solid red;
+/*big-body*/
+.big-body {
+    background-color: grey;
+}
+
+/*big-body-main*/
+.big-body-main {
+    background-color: white;
+}
+
+.big-body-main .body-button {
+    text-align: center;
+}
+
+/*body-top*/
+.body-top {
+    text-align: center;
+    padding: 0.5em 0.1em 0.1em 0.1em;
+}
+
+.body-top h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.body-top span {
+    background-color: black;
+    padding: 0.3em;
+}
+
+.body-top p {
+    margin-top: -0.3em;
+    font-size: 0.7em;
+}
+
+/*body-main*/
+.body-main {
+    padding: 0.1em 1em;
+}
+
+.body-main h1 {
+    font-size: 1.2em;
+    color: #333333;
+}
+
+.body-main p {
+    font-size: 0.7em;
+    color: grey;
+    margin-top: -0.8em;
+    padding-bottom: 1em;
+    border-bottom: solid 0.1em grey;
+}
+
+/*body-main-2*/
+.body-main-2 {
+    text-align: center;
+}
+
+/*body-main-3*/
+.body-main-3 {
+    padding: 0 1em;
+}
+
+.body-main-3 h3 {
+    color: #333333;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.body-main-3 p {
+    color: grey;
+    font-size: 0.8em;
+}
+
+.body-main-3 span {
+    color: blue;
+    font-size: 1.2em;
+}
+
+.body-main-3 .line {
+    border-bottom: solid 0.05em grey;
+}
+
+.body-main-3 .red {
+    color: red;
+    font-weight: bold;
+}
+
+/*ad*/
+.ad {
+    text-align: center;
+    padding: 0 1em;
+}
+
+.ad h1 {
+    color: red;
+    font-size: 1em;
+    margin-top: 2em;
+}
+
+.ad span {
+    background-color: black;
+    padding: 0.5em;
+}
+
+.ad p {
+    color: white;
+    font-weight: bold;
+}
+
+.bottom-ad {
+    margin-top: -1.5em;
+}
+
+/*フッター*/
+footer {
+    background-color: black;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    font-weight: bold;
 }
