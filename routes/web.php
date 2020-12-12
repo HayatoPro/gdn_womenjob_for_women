@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('info', function () {
+Route::get('news', function () {
     return view('gdn.check'); //提出用
     // return view('gdn.jobNew'); //Newベリー訴求
     
