@@ -13,7 +13,7 @@
 // LP獲得用
 Route::get('news', function () {
     return view('gdn.check'); //提出用
-    // return view('gdn.jobNew'); //Newベリー訴求
+    // return view('gdn.jobNew'); //PoPo訴求
     
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     // return view('gdn.adgame'); //アナヒロ - LP
@@ -27,7 +27,7 @@ Route::get('news', function () {
     // return view('gdn.job'); //獲得用(1)
 });
 
-//OS識別→案件遷移 & Newベリー訴求
+//OS識別→案件遷移 & PoPo訴求
 Route::get('os', 'AdController@os');
 
 //ライブでゴーゴー
@@ -35,7 +35,7 @@ Route::get('job', 'AdController@job');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('gdn.jobNew'); //Newベリー訴求
+    return view('gdn.jobNew'); //PoPo訴求
     
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     // return view('gdn.adgame'); //アナヒロ - LP未完成
