@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('news', function () {
     return view('gdn.check'); //提出用
-    // return view('gdn.jobNew'); //PoPo訴求
+    // return view('gdn.adultand'); //YouTube - アダルトAndroid訴求
     
+    // return view('gdn.jobNew'); //PoPo訴求
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     // return view('gdn.adgame'); //アナヒロ - LP
     // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワクストア直遷移 - fam
@@ -35,8 +36,9 @@ Route::get('job', 'AdController@job');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('gdn.jobNew'); //PoPo訴求
+    return view('gdn.adultand'); //YouTube - アダルトAndroid訴求
     
+    // return view('gdn.jobNew'); //PoPo訴求
     // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //アナザーヒロイン直遷移 - Aトレード
     // return view('gdn.adgame'); //アナヒロ - LP未完成
     // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16786'); //ワクワクストア直遷移 - fam
