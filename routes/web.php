@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('news', function () {
-    return view('gdn.check'); //提出用
-    // return view('gdn.tjad'); //YouTube - アダルトAndroid(動画)訴求
+    // return view('gdn.check'); //提出用
+    return view('gdn.tjad'); //YouTube - アダルトAndroid(動画)訴求
     // return view('gdn.adultand'); //YouTube - アダルトAndroid訴求
     
     // return view('gdn.jobNew'); //PoPo訴求
