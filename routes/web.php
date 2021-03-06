@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app1', function () {
+Route::get('good1', function () {
     return view('gdn.check'); //提出用
     // return view('gdn.adultand'); //YouTube - アダルトAndroid訴求
     
